@@ -1,10 +1,10 @@
 # ProjectsIoT2022
 
 ## Integrantes
-- Nombre y Apellidos del primer integrante
-- Nombre y Apellidos del segundo integrante
-- Nombre y Apellidos del tercer integrante
-- Nombre y Apellidos del cuarto integrante
+- Luis Armando Largo Ramirez
+- Josue Omar Nuñez Godinez
+- Omar Zuñiga Abundis
+- Juan David Lara Robles
 
 ## Objetivo general
 Parrafo con el objetivo general
