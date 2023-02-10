@@ -9,10 +9,10 @@
 ## Objetivo general
 Parrafo con el objetivo general
 ### Objetivos específicos
-- Elemento 1 de la lista de objetivos específicos
-- Elemento 2 de la lista de objetivos específicos
-- Elemento 3 de la lista de objetivos específicos
-- Elemento 4 de la lista de objetivos específicos
+- El programa detectará la humedad del suelo.
+-Se abrirá automaticamente la llave de paso para cumplir su función.
+-Ahorrar la suficiente cantidad de agua de acuerdo a la humedad del suelo.
+-Ahorrar tiempo al consumidor.
 ...
 - Elemento n de la lista de objetivos específicos
 
