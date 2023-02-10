@@ -39,24 +39,24 @@ Nuestro objetivo con este proyecto es poder garantizar la seguridad de las perte
 
 
 
-## Epicas del proyecto (Minimo debe de haber una épica por integrante de equipo)
-- Quiero poder abrir la puerta desde cualquier lugar del mundo donde me encuentre  
+## Epicas del proyecto (Minimo debe de haber una épica por integrante de equipo)  
 - Como usuario quiero poder visualializar el estatus de mi seguridad desde el celular 
-- Como usuario quiero poder ver el clima en una pantalla lcd y como el clima 
+- Como usuario quiero poder abrir la caja fuerte a distancia si lo requiero
+- Quiero poder tener los datos de humedad desde mi celular
+- Saber si alguien intenta abrir la caja fuerte
+- que suene el buzzer si alguien intenta abrirla
 
 
 ## Tabla de historias de usuario
 | Id  | Historia de usuario  |Prioridad |Estimación|Como probarlo | Responsable |
 |---|---|---|---|---|---|
-| 1  |Quiero poder abrir la puerta desde cualquier lugar del mundo donde me encuentre| Alta  | 3 semanas | Con conexion mqqt y un celular | Cesar Alegandro Ordoñez Osorio |
-|  2| Como usuario quiero poder ver el clima en una pantalla lcd y como el clima   | Media  | 2 semanas | Probando mando los valores que mandan los se nsores ala pantalla | Cruz Estrella Juárez Soto |
-|  3 | Yo como usuario quiero poder visualizar el estatus de la puerta desde mi celular en una aplicación web responsiva   | Media  | 3 semanas | Probando mando los valores que mandan los sensores ala aplicacion web | Cruz Estrella Juárez Soto |
-|  4 | Yo como usuario quiero poder escuchar una alerta de luz y sonido cuando una puerta en especifico se abierta o cerrada  | Alta  | 2 semanas    | Con las aplicacion web resposiva probando que el seguro abre y cierra correctamete  | Angel Gerardo Velazquez Salazar |
-|  5 | Yo como usuario quiero poder visualizar el estatus de mi seguro inteligente en una pantalla lcd además de visualizar el clima del momento en el que me encuentro de salida de una habitación en especifico  | media  | 2 semanas    | Captando los valores que viene de los sensores y pasandolos ala pantalla  | Angel Gerardo Velazquez Salazar |
-| 1  |Como usuario de la cerradura inteligente quiero poder  asegurar la puerta cada 5 minutos de no haber detectado presencia humana| Alta  | 3 semanas | Reciviendo los valores deuna sensor mandar indicaciones al motor y activar la seguridad | Cesar Alegandro Ordoñez Osorio |
+| 1  |Quiero ver como se encuentra mi caja fuerte sin importar donde me encuentre| Alta  | 1 mes | mqqt | por el equipo |
+|  2| Quiero abrir la caja fuerte desde mi celuar en dado caso de que se requiera y yo no este presente| Media  | 2 semanas |mqqt y un celular|Por el equipo|
+|  3 |Quiero saber el estado de mi caja| Media  | 1 semanas |Probando el sensor de humedad |Por el equipo|
+|  4 | Yo como usuario quiero poder escuchar una alerta de luz y sonido cuando una puerta en especifico se abierta o cerrada|Alta|2 semanas|Probando el sensor de movimiento con el buzzer|Por el equipo|
 
 
 ## Prototipo en dibujo
-- Coloca la fotografia de tu prototipo dibujado a lapiz
+- https://drive.google.com/file/d/1OgpiTpNm4uELDASEXitZ8KS-C9Qwsw3S/view?usp=drivesdk
 
 
