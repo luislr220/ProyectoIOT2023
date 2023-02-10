@@ -1,4 +1,4 @@
-# ProjectsIoT2022
+# Caja fuerte con sensores
 
 ## Integrantes
 - Luis Armando Largo Ramirez
