@@ -19,9 +19,9 @@ Parrafo con el objetivo general
 ## Tabla de Software utilizado
 | Id | Software | Version | Tipo |
 |----|----------|---------|------|
-|    |          |         |      |
-|    |          |         |      |
-|    |          |         |      |
+| 1| Arduino IDE| 1.8.57.0|Entorno de Programación|
+| 2  |Firebase|10.4|Alojamiento en la nube|
+| 3 |App Inventor|2.0|Entorno de Programación|
 
 ## Tabla con el hardware utilizado
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
